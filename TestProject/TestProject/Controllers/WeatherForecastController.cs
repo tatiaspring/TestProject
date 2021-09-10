@@ -27,7 +27,7 @@ namespace TestProject.Controllers
         [HttpGet]
         public ActionResult Test()
         {
-            return Content("Testttt");
+            return Content("Testtttt");
         }
 
         [HttpGet]
